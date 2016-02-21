@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">CustomBrowser</string>
-    <string name="Site1">NBC</string>
-    <string name="Site2">CBS</string>
-    <string name="Site3">ABC</string>
+    <string name="app_name">Choose Your News</string>
+    <string name="Site1">NBC News</string>
+    <string name="Site2">CBS News</string>
+    <string name="Site3">ABC News</string>
 </resources>
